@@ -306,12 +306,12 @@ export default {
 
 <style lang="scss">
 .distpicker-address-wrapper {
+  height:100%;
   color: #9caebf;
   select {
-    padding: .5rem .75rem;
-    height: 40px;
+    padding: 0 .75rem;
+    height: 100%;
     font-size: 1rem;
-    line-height: 1.25;
     color: #464a4c;
     background-color: #fff;
     background-image: none;
